@@ -1,0 +1,12 @@
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\bin\Debug\Sistema.exe
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\bin\Debug\Sistema.pdb
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.frmCadastoUsuario.resources
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.frmLogin.resources
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.frmPrincipal.resources
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.exe
+C:\Users\phhen\source\repos\FabricaSuco\Sistema\obj\Debug\Sistema.pdb
