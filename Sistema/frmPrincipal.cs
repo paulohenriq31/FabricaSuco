@@ -28,5 +28,11 @@ namespace Sistema
             frmCadastoUsuario fCadastrarUsuario = new frmCadastoUsuario();
             fCadastrarUsuario.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ListagemUsuarios fListagemUsuarios = new ListagemUsuarios();
+            fListagemUsuarios.ShowDialog();
+        }
     }
 }

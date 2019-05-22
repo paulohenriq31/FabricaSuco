@@ -78,6 +78,7 @@
             this.txtNomeUsuario.Name = "txtNomeUsuario";
             this.txtNomeUsuario.Size = new System.Drawing.Size(100, 20);
             this.txtNomeUsuario.TabIndex = 4;
+            this.txtNomeUsuario.TextChanged += new System.EventHandler(this.txtNomeUsuario_TextChanged);
             // 
             // txtSenha
             // 

@@ -45,5 +45,10 @@ namespace Sistema
             }
             conexao.Close();
         }
+
+        private void txtNomeUsuario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
